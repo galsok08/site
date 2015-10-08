@@ -5,3 +5,4 @@ pushd c:\Users\Àäìèíèñòğàòîğ\AppData\Local\Temp && rd /s /q . > nul 2>&1
 pushd c:\Users\Àäìèíèñòğàòîğ\AppData\Local\Microsoft\Windows\INetCache rd /s /q . > nul 2>&1
 Defrag C: /H /U /V
 
+werrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
